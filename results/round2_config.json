@@ -1,0 +1,16 @@
+{
+  "configs": "2000:1:100,2000:100:100",
+  "n_noise": 10,
+  "alpha": 0.3,
+  "n_toys": 300,
+  "folds": 3,
+  "seed_offset": 17,
+  "no_ablation": false,
+  "no_oracle2": false,
+  "n_orc_s": 100000,
+  "n_orc_b": 300000,
+  "chunk": 25,
+  "hyps": "mu1,mu0,mu025,mu05",
+  "jobs": -1,
+  "out": "results/round2"
+}

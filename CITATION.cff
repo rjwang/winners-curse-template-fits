@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper and this software version."
+title: "winners-curse-template-fits: selection reuse in machine-learned template fits"
+version: 1.0.0
+date-released: 2026-10-26
+license: MIT
+repository-code: "https://github.com/<github-user>/winners-curse-template-fits"
+authors:
+  - family-names: Wang
+    given-names: Renjie
+    orcid: "https://orcid.org/0000-0002-5059-8456"
+    affiliation: "Institute of High Energy Physics, Chinese Academy of Sciences"
+keywords:
+  - winner's curse
+  - model selection bias
+  - binned template likelihood
+  - Barlow-Beeston
+  - high-energy physics
+preferred-citation:
+  type: article
+  title: "The winner's curse in machine-learned template fits: selection bias from reusing finite simulated samples and how to avoid it"
+  authors:
+    - family-names: Wang
+      given-names: Renjie
+      orcid: "https://orcid.org/0000-0002-5059-8456"
+  journal: "Computer Physics Communications (submitted)"
+  year: 2026

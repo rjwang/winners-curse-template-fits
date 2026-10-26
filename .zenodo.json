@@ -1,0 +1,15 @@
+{
+  "title": "winners-curse-template-fits: selection reuse in machine-learned template fits",
+  "upload_type": "software",
+  "description": "Code, stored results and figure scripts for R. Wang, 'The winner's curse in machine-learned template fits: selection bias from reusing finite simulated samples and how to avoid it' (submitted to Computer Physics Communications). Includes a vectorised profile-likelihood fitter with exact treatment of finite simulation statistics, the workflows and matched controls of the study, calibration procedures, tests and a performance benchmark.",
+  "creators": [
+    {
+      "name": "Wang, Renjie",
+      "affiliation": "Institute of High Energy Physics, Chinese Academy of Sciences",
+      "orcid": "0000-0002-5059-8456"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["winner's curse", "model selection bias", "template likelihood", "Barlow-Beeston", "high-energy physics", "machine learning"],
+  "access_right": "open"
+}

@@ -1,0 +1,33 @@
+{
+  "n_mc": [
+    2000,
+    10000
+  ],
+  "K": [
+    1,
+    50
+  ],
+  "n_noise": [
+    0,
+    10
+  ],
+  "alpha": [
+    0.0,
+    0.3,
+    0.6
+  ],
+  "reps": 30,
+  "n_toys": 300,
+  "min_leaf": [
+    5,
+    10,
+    20,
+    50
+  ],
+  "b_floor": 1.0,
+  "sel_objective": "plugin",
+  "n_orc_s": 100000,
+  "n_orc_b": 300000,
+  "jobs": -1,
+  "out": "results/phase3_main"
+}

@@ -1,0 +1,26 @@
+{
+  "n_mc": [
+    2000,
+    5000,
+    10000
+  ],
+  "K": [
+    1,
+    5,
+    20,
+    100
+  ],
+  "n_noise": [
+    10
+  ],
+  "alpha": [
+    0.3
+  ],
+  "reps": 30,
+  "folds": 3,
+  "n_orc_s": 100000,
+  "n_orc_b": 300000,
+  "paired": "results/phase4d_raw.csv",
+  "jobs": -1,
+  "out": "results/theory"
+}

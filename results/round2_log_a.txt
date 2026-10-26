@@ -1,0 +1,27 @@
+skip results/round2_N2000_K1 (complete file exists)
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
+[Parallel(n_jobs=-1)]: Done  2 out of 25 | elapsed: 11.0min
+[Parallel(n_jobs=-1)]: Done 16 out of 25 | elapsed: 22.3min remaining: 12.6min
+[Parallel(n_jobs=-1)]: Done 22 out of 25 | elapsed: 32.9min remaining:  4.5min
+[Parallel(n_jobs=-1)]: Done 25 out of 25 | elapsed: 41.0min finished
+[N=2000 K=100] replicas 0-25 saved | 41.0 min for 25 replicas | ETA this config ~123 min | total 41.0 min
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
+[Parallel(n_jobs=-1)]: Done  2 out of 25 | elapsed: 10.5min
+[Parallel(n_jobs=-1)]: Done 16 out of 25 | elapsed: 21.7min remaining: 12.2min
+[Parallel(n_jobs=-1)]: Done 22 out of 25 | elapsed: 32.2min remaining:  4.4min
+[Parallel(n_jobs=-1)]: Done 25 out of 25 | elapsed: 40.2min finished
+[N=2000 K=100] replicas 25-50 saved | 81.3 min for 50 replicas | ETA this config ~81 min | total 81.3 min
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
+[Parallel(n_jobs=-1)]: Done  2 out of 25 | elapsed: 10.9min
+[Parallel(n_jobs=-1)]: Done 16 out of 25 | elapsed: 21.9min remaining: 12.3min
+[Parallel(n_jobs=-1)]: Done 22 out of 25 | elapsed: 32.3min remaining:  4.4min
+[Parallel(n_jobs=-1)]: Done 25 out of 25 | elapsed: 39.8min finished
+[N=2000 K=100] replicas 50-75 saved | 121.1 min for 75 replicas | ETA this config ~40 min | total 121.1 min
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
+[Parallel(n_jobs=-1)]: Done  2 out of 25 | elapsed: 46.4min
+[Parallel(n_jobs=-1)]: Done 16 out of 25 | elapsed: 57.3min remaining: 32.3min
+[Parallel(n_jobs=-1)]: Done 22 out of 25 | elapsed: 67.7min remaining:  9.2min
+[Parallel(n_jobs=-1)]: Done 25 out of 25 | elapsed: 91.7min finished
+[N=2000 K=100] replicas 75-100 saved | 212.8 min for 100 replicas | ETA this config ~0 min | total 212.8 min
+versions: sklearn 1.9.1 numpy 2.4.3
+Total wall time: 12766s

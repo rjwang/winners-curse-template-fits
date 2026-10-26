@@ -1,0 +1,21 @@
+N,K,comparison,meaning,dfpr_pp,se
+2000,1,R1_ind2ch - R1_ind,two-channel structure,-1.0333333333333339,0.4822436340263317
+2000,1,CS_ind - R1_ind2ch,"different, mutually selected designs",0.08333333333333398,0.19071458746528502
+2000,1,CS - CS_ind,template reuse in CS,-0.1033333333333335,0.6802273172569125
+2000,1,CSs_ind - R1_ind2ch,strict-split designs (indep. templates),0.533333333333334,0.5511135548984593
+2000,1,CSs - CSs_ind,template reuse in CSs,0.3666666666666667,0.8265718963815347
+2000,100,R1_ind2ch - R1_ind,two-channel structure,-1.6399999999999997,0.6712917009014892
+2000,100,CS_ind - R1_ind2ch,"different, mutually selected designs",2.25,0.6923078242059599
+2000,100,CS - CS_ind,template reuse in CS,-0.5466666666666667,1.230053150056568
+2000,100,CSs_ind - R1_ind2ch,strict-split designs (indep. templates),2.123333333333333,0.8122609119003095
+2000,100,CSs - CSs_ind,template reuse in CSs,-0.7400000000000003,1.1278395265973484
+10000,1,R1_ind2ch - R1_ind,two-channel structure,2.813333333333333,0.7286280712497646
+10000,1,CS_ind - R1_ind2ch,"different, mutually selected designs",-0.46666666666666723,0.3246487723630346
+10000,1,CS - CS_ind,template reuse in CS,-1.0733333333333328,0.9909014654776299
+10000,1,CSs_ind - R1_ind2ch,strict-split designs (indep. templates),-1.7133333333333332,0.906515093372676
+10000,1,CSs - CSs_ind,template reuse in CSs,-0.22666666666666668,0.8557364122533502
+10000,100,R1_ind2ch - R1_ind,two-channel structure,1.29,0.4692964622416226
+10000,100,CS_ind - R1_ind2ch,"different, mutually selected designs",-0.3466666666666669,0.47611691591525185
+10000,100,CS - CS_ind,template reuse in CS,0.34000000000000036,0.6240230074321891
+10000,100,CSs_ind - R1_ind2ch,strict-split designs (indep. templates),-0.5266666666666668,0.5905385698403922
+10000,100,CSs - CSs_ind,template reuse in CSs,0.7366666666666672,0.7111315495800202
